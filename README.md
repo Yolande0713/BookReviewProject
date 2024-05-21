@@ -1,8 +1,9 @@
-# React + Vite
+# Book Review Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a showcase of some of my skills with React. Feel free to read
+a review by clicking on any of the book covers below. You can also
+leave your own comments that will be saved locally in your browser's
+local storage. I hope you enjoy exploring my reviews of some books
+I've read recently. Thank you for taking an interest :)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Visit Built Site](https://yolande0713.github.io/BookReviewProject/)
