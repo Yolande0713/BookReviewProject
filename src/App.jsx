@@ -33,11 +33,11 @@ function App() {
         </p>
         <p>
           Find the source code here
-          <a href="https://github.com/Yolande0713/BookReviewProject" target="_blank" class="link">Source Code</a>
+          <a href="https://github.com/Yolande0713/BookReviewProject" target="_blank" className="link">Source Code</a>
         </p>
         <p>
           Check out my other projects and find out more about me
-          <a href="https://yolande0713.github.io/" target="_blank" class="link">Portfolio Site</a>
+          <a href="https://yolande0713.github.io/" target="_blank" className="link">Portfolio Site</a>
         </p>
 
         <section id="reviews">
