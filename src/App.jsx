@@ -33,12 +33,12 @@ function App() {
         </p>
         <p>
           Find the source code here
-          <a href="https://github.com/Yolande0713/BookReviewProject" target="_blank" className="link">Source Code</a>
         </p>
+        <a href="https://github.com/Yolande0713/BookReviewProject" target="_blank" className="link">Source Code</a>
         <p>
           Check out my other projects and find out more about me
-          <a href="https://yolande0713.github.io/" target="_blank" className="link">Portfolio Site</a>
         </p>
+        <a href="https://yolande0713.github.io/" target="_blank" className="link">Portfolio Site</a>
 
         <section id="reviews">
           {listOfBooks.map((book) => (
